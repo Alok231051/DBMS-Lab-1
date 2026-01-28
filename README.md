@@ -40,7 +40,6 @@ The objective of this assignment is to understand and implement fundamental **SQ
 - lab1_solution.sql  → Contains all SQL commands with comments & question numbers
 - DB-Lab-1.pdf       → Question paper provided for the lab assignment
 - README.md          → Detailed explanation of the assignment
-
 - 
 ---
 
